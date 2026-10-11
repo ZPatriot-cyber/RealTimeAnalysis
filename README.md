@@ -77,19 +77,10 @@
 
 ## 🚀 Запуск
 
-### Вариант A — Visual Studio
+### Visual Studio
 
 1. Откройте `RealTimeAnalysis.csproj`.
 2. Проверьте, что `data/tasks.csv` и `data/system.json` копируются в
    выходной каталог (**Свойства файла → Копировать, если новее**).
 3. Нажмите **F5**.
 
-### Вариант B — командная строка
-
-```bash
-dotnet run --project RealTimeAnalysis
-```
-
----
-
-## 📈 Ожидаемый результат
